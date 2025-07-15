@@ -1,3 +1,7 @@
+"scripts": {
+  "start": "node index.js"
+}
+
 // Burger Menu Toggle
 const burger = document.querySelector('.burger');
 const navLinks = document.querySelector('.nav-links');
