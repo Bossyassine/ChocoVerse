@@ -1,0 +1,14 @@
+farming-website/
+├── images/
+│   ├── hero.jpg
+│   ├── legumes.jpg
+│   ├── fruits.jpg
+│   ├── oeufs.jpg
+│   └── logo.png
+├── languages/
+│   ├── en.json
+│   ├── fr.json
+│   └── ar.json
+├── index.html
+├── styles.css
+└── script.js
